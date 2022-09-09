@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "TV",
+      "description": "algum TV",
+      "price": "200",
+      "id": 1
+    },
+    {
+      "name": "TV2",
+      "description": "algum TV",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "name": "TV4",
+      "description": "algum TV",
+      "price": "200",
+      "id": 4
+    }
+  ]
+}
